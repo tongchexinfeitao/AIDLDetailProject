@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIDLClient.iml" filepath="$PROJECT_DIR$/AIDLClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIDLclient/AIDLclient.iml" filepath="$PROJECT_DIR$/AIDLclient/AIDLclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlservice/aidlservice.iml" filepath="$PROJECT_DIR$/aidlservice/aidlservice.iml" />
+      <module fileurl="file://F:\space\importance\TouchEventDemo\AIDLClient\AIDLclient\app.iml" filepath="F:\space\importance\TouchEventDemo\AIDLClient\AIDLclient\app.iml" />
+    </modules>
+  </component>
+</project>
